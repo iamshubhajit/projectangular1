@@ -1,0 +1,15 @@
+header
+{
+    background: #121212;
+    padding: 15px;
+    color: #fff;
+}
+header a
+{
+    color: #fff;
+}
+header a:hover, header a:active, header a:visited
+{
+    color: #fff;
+    text-decoration: none;
+}

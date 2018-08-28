@@ -1,0 +1,28 @@
+.sidebar
+{
+    background: #333;
+    height: 100%
+}
+.sidebar ul
+{
+    margin: 0px -15px;
+    padding: 0;
+}
+.sidebar ul li
+{
+    display: inline-block;
+    width: 100%;
+    float: left;
+}
+.sidebar ul li a
+{
+   width: 100%;
+   float: left;
+   padding: 10px 15px;
+   color: #fff;
+}
+.sidebar ul li a:hover
+{
+    background: #fff;
+    color: #222;
+}
